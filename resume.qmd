@@ -1,89 +1,83 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: Resume
+title: Emmanuel Kissi's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Emmanuel Kissi
+Student, Financial Analyst, and Entrepreneur
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:kis20001@byui.edu">kis20001@byui.edu</a>
+| <a href="https://linkedin.com/in/emmanuel-tabi-kissi">My LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Business Intelligence Operations Analyst at Goldman Sachs
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Asset Management, Wealth Management, Investment Banking, Data Analytics, and Global Banking & Market.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data governance, Financial modeling, Operational optimization, and Innovative data solutions.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`April 2021 - April 2025`  
+__Brigham Young University - Idaho__, Rexburg, Idaho  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Science in Business Analytics  
+- Minor: Finance  
+- Overall GPA: 3.95/4.00  
+- Scholarships: Brigham Young University-Idaho Grant 2021-2025 (Acknowledgment of Academic Excellence)  
 
 
+## Professional Experience
 
-## Awards
+`June 2024 - Present`  
+__Goldman Sachs__, Salt Lake City, Utah  
+- Utilized Alteryx to automate workflows, decreasing manual data entry by 40% and enhancing operational efficiency.  
+- Developed interactive Tableau dashboards, driving real-time insights and improving decision-making for senior management.  
+- Implemented data governance measures, reducing discrepancies by 30% and ensuring compliance with industry standards.  
 
-`2012`
-President, *Royal Society*, London, UK
+`January 2022 - Present`  
+__Kissi Shuttle Services__, Kumasi, Ghana  
+- Established a shuttle business with 7 vehicles, achieving a 20% annual revenue increase and reducing costs by 15%.  
+- Executed marketing strategies, including digital campaigns, resulting in a 65% expansion of the customer base.  
+- Supervised 15 employees, fostering productivity, excellent customer service, and a positive work environment.  
 
-Associate, *French Academy of Science*, Paris, France
+`September 2022 - May 2024`  
+__Career Success Mentor, Brigham Young University - Idaho__, Rexburg, Idaho  
+- Mentored 227 students, leading to 189 securing job offers.  
+- Achieved a 98.5% satisfaction rating through constructive feedback and personalized coaching.  
+- Stayed abreast of job market trends to offer relevant coaching strategies.  
 
+`January 2023 - April 2023`  
+__Financial Analyst, The Church of Jesus Christ of Latter-Day Saints__, Salt Lake City, Utah  
+- Analyzed over 10,000 receipts to ensure compliance with financial controls.  
+- Processed 100+ invoices, ensuring timely and accurate payments.  
+- Presented audit findings using Power BI and Tableau, enabling informed decision-making.  
 
+---
 
-## Publications
+## Key Skills
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- **Data Analysis**: Microsoft Excel, Python, R, SQL, Pivot Tables.  
+- **Business Intelligence Tools**: Tableau, Alteryx, Power BI.  
+- **Financial Tools**: QuickBooks, IAN.  
+- **Soft Skills**: Teamwork, Leadership, Communication, Time Management.  
 
-### Journals
+---
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Publications and Awards
 
-`1669`
-Lectiones opticæ.
+`2021-2025`  
+Brigham Young University-Idaho Grant – Awarded for Academic Excellence.
 
-etc. etc. etc.
+---
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: December 2024
